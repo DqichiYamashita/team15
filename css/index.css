@@ -1,4 +1,20 @@
-.red {
-    color:red;
+.meiji_jingu{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow:hidden;
 }
- 
+
+.senso-ji{
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    overflow:hidden;
+}
+
+.takaosan{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow:hidden;
+}
