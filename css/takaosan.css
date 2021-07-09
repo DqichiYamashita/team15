@@ -1,3 +1,10 @@
+body{
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+
 .takaosan{
     position: relative;
     width: 640px;

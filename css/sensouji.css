@@ -1,5 +1,13 @@
+body{
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+
 .senso-ji{
     position: relative;
     width: 640px;
     height: 480px;
 }
+
