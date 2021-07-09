@@ -4,6 +4,10 @@ body{
     margin-left : auto;
 }
 
+.mokuji{
+    margin-right: auto;
+}
+
 .meiji_jingu{
     position: relative;
     width: 640px;
