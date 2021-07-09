@@ -2,3 +2,28 @@
     color:red;
 }
  
+body{
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+.meiji_jingu{
+    position: relative;
+    width: 640px;
+    height: 480px;
+   
+}
+
+.senso-ji{
+    position: relative;
+    width: 640px;
+    height: 480px;
+}
+
+.takaosan{
+    position: relative;
+    width: 640px;
+    height: 480px;
+    overflow:hidden;
+}
