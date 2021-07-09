@@ -4,8 +4,8 @@ body{
     margin-left : auto;
 }
 
-.mokuji{
-    margin-right: auto;
+div.left{
+    text-align: left; 
 }
 
 .meiji_jingu{

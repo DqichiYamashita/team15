@@ -4,12 +4,8 @@ body{
     margin-left : auto;
 }
 
-div {
-    width: 200px;
-    background: #CCC;
-}
-.mokuji {
-    margin-right: auto;
+#left1{
+    text-align: left;
 }
 
 .takaosan{
