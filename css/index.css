@@ -1,15 +1,14 @@
 .meiji_jingu{
     position: relative;
-    width: 100px;
-    height: 100px;
-    overflow:hidden;
+    width: 50%;
+    height: auto;
+   
 }
 
 .senso-ji{
     position: relative;
-    width: 100px;
-    height: 100px;
-    overflow:hidden;
+    width: 259px;
+    height: 194px;
 }
 
 .takaosan{
