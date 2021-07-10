@@ -1,16 +1,12 @@
-body{
-    width:700px;
-    margin-right: auto;
-    margin-left : auto;
-}
-
-#left1{
-    text-align: left;
+.mokuji{
+    float: left;
 }
 
 .takaosan{
     position: relative;
     width: 640px;
     height: 480px;
-    overflow:hidden;
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
 }

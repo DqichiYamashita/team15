@@ -1,15 +1,12 @@
-body{
-    width:700px;
-    margin-right: auto;
-    margin-left : auto;
-}
-
-div.left{
-    text-align: left; 
+.mokuji{
+    float: left;
 }
 
 .meiji_jingu{
     position: relative;
     width: 640px;
     height: 480px;
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
 }
