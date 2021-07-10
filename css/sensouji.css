@@ -1,29 +1,12 @@
-body{
-    width:700px;
-    margin-right: auto;
-    margin-left : auto;
-}
-
-div.left{
-    text-align: left; 
+.mokuji{
+    float: left;
 }
 
 .senso-ji{
     position: relative;
     width: 640px;
     height: 480px;
-<<<<<<< HEAD
     width:700px;
     margin-right: auto;
     margin-left : auto;
-#url {text-align: center;
-
 }
-
-h1 {background-color: crimson;
-    text-align: center;
-
-=======
->>>>>>> parent of 9bd5aa7 (finish)
-}
-

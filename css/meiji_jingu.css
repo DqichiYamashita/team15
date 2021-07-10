@@ -1,34 +1,12 @@
-body{
-    width:700px;
-    margin-right: auto;
-    margin-left : auto;
-}
-
-div.left{
-    text-align: left; 
+.mokuji{
+    float: left;
 }
 
 .meiji_jingu{
     position: relative;
     width: 640px;
     height: 480px;
-}
-#url {text-align: center;
-
-}
-
-
-h1 {
-    color : #003333;
-    background-color: turquoise;
-    text-align: center;
-
-}
-
-h2 {
-    color :teal
-}
-
-#url {text-align: center;
-
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
 }
