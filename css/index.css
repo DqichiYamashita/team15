@@ -1,8 +1,4 @@
-.mokuji{
-    float: left;
-}
-
-.index{
+body{
     width:700px;
     margin-right: auto;
     margin-left : auto;
@@ -12,6 +8,7 @@
     position: relative;
     width: 640px;
     height: 480px;
+   
 }
 
 .senso-ji{
@@ -24,4 +21,5 @@
     position: relative;
     width: 640px;
     height: 480px;
+    overflow:hidden;
 }
