@@ -10,3 +10,17 @@
     margin-right: auto;
     margin-left : auto;
 }
+
+h1 {
+    color : #003333;
+    background-color: turquoise;
+    text-align: center;
+}
+
+h2 {
+    color :teal
+}
+
+#url {
+    text-align: center;
+}
