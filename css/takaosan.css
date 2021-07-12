@@ -3,12 +3,27 @@
 }
 
 .takaosan{
-    position: relative;
-    width: 640px;
-    height: 480px;
     width:700px;
     margin-right: auto;
     margin-left : auto;
+}
+
+.takaosan.jpg{
+    position: relative;
+    width: 640px;
+    height: 480px;
+}
+
+.takaosan_2.jpg{
+    position: relative;
+    width: 640px;
+    height: 480px;
+}
+
+.takaosan_3.png{
+    position: relative;
+    width: 640px;
+    height: 480px;
 }
 
 h1 {

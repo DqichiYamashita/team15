@@ -8,20 +8,24 @@
     margin-left : auto;
 }
 
-.meiji_jingu{
+.meiji_jingu.jpg{
     position: relative;
     width: 640px;
     height: 480px;
 }
 
-.senso-ji{
+.senso-ji.jpg{
     position: relative;
     width: 640px;
     height: 480px;
 }
 
-.takaosan{
+.takaosan.jpg{
     position: relative;
     width: 640px;
     height: 480px;
+}
+
+#url {
+    text-align: center;
 }
